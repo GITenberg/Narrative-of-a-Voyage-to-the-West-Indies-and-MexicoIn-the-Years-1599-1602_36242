@@ -1,0 +1,42 @@
+_repo: Narrative-of-a-Voyage-to-the-West-Indies-and-MexicoIn-the-Years-1599-1602_36242
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wilmere, Alice
+    gutenberg_agent_id: '39265'
+    url: http://www.gutenberg.org/2009/agents/39265
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Champlain, Samuel de
+    birthdate: 1574
+    deathdate: 1635
+    gutenberg_agent_id: '2130'
+    url: http://www.gutenberg.org/2009/agents/2130
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_de_Champlain
+  editor:
+    agent_name: Shaw, Norton
+    alias: Shaw, H. Norton
+    deathdate: 1868
+    gutenberg_agent_id: '38159'
+    url: http://www.gutenberg.org/2009/agents/38159
+description: Cover -- Introduction -- Biographical Notice Of Champlain -- Brief Narrative
+  Of The Most Remarkable Things That Samuel Champlain Of Brouage, Observed In The
+  Western Indies
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexico -- Description and travel -- Early works to 1800'
+- !lcc 'G'
+- !lcsh 'West Indies -- Description and travel -- Early works to 1800'
+title: Narrative of a Voyage to the West Indies and Mexico in the Years 1599-1602
+url: http://www.gutenberg.org/ebooks/36242
